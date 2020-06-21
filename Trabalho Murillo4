@@ -1,0 +1,65 @@
+	    <!DOCTYPE html>
+	    <html lang="pt-br">
+	  
+		<meta charset="utf-8">
+		<meta name="author" content="Murillo Alex">
+		<meta name="description" content="AVC">
+		<meta name="keywords" content="Curtição, férias, relaxamento, felicidade">
+		<link rel="shortcut icon" href="ico.ico" type="image/x-icon">
+		<title>AVC</title>
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300|Cinzel+Decorative:700" rel="stylesheet">
+		<link rel= "stylesheet" type="text/css" href="style.css">
+		
+
+
+	    </head>
+ 
+	    <body>
+	    <header>
+	 
+
+		<h1>Associação de Viagens Cabulosas</h1>
+		<img src="turbine.png" alt="um logo simples">
+
+		<nav>  <!-- <p>  destaca onde clica para ir para outras páginas</p> -->
+		<ul>
+		    <a href ="Trabalho Murillo.html">Inicio&nbsp; </a>
+	        <a href ="Trabalho Murillo2.html">Horários&nbsp; </a>
+	        <a href ="Trabalho Murillo3.html">Preços&nbsp; </a> 
+		    <li><span>Informações</span></li>
+	        <li><a href="#">Sobre</a></li> 
+	  	</ul>
+	    </nav>	
+	        </header>    <!-- <p>cabeçario principal, o que nunca muda, oq sempre tem que estar na parte de cima de todos os sites</p> -->
+	    <main>
+
+	    <article>  <!-- <p>bloco de texto principal, mas secundário</p> -->  
+	   
+		   
+	       <h2>Informações</h2>
+		   <center> <img src="imagem.jpg" 
+		   alt="Erro de imagem"
+		   width="400"
+		   height="341"
+		   title="Horários"> </center>
+		   <h1> <p> Informações <p> </h1>
+		   <address>
+           <p>O que é bagagem despachada?</p>
+
+           <p> São as malas maiores, que vão no bagageiro do avião. Elas são entregues na hora que você faz o check-in no aeroporto de embarque e são devolvidas ao passageiro no destino. Quando o passageiro despacha a mala, ele recebe um comprovante, que deve ser guardado para conferência ou no caso da mala se extraviar (não chegar no destino). </p>
+
+
+	    <aside>   <!-- <p>serve para deixar as coisas pro lado em outro bloco.</p> -->
+		
+		<section>  <!-- <p>junta as coisas</p> -->
+		
+
+        </section>
+	    </aside>
+	    </main>
+        <article>
+	    <footer>     <!-- <p>sempre será a ultima coisa da página.</p> -->
+
+	    </footer>
+	    </body>
+	    </html>
